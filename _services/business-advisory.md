@@ -6,7 +6,7 @@ weight: 4
 
 Agile Masters is a highly skilled and dedicated Scrum Team
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/s4.jpg)
 
 # Project Break-Down
 
