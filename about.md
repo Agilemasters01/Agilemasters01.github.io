@@ -7,7 +7,7 @@ bodyClass: page-about
 
 Agile Masters is a highly skilled and dedicated Scrum Team, ready to showcase their exceptional talent and expertise on to the world. With a deep understanding of Agile methodologies,we possess the necessary skills to deliver high-quality software solutions in a dynamic and fast-paced environment. The team members are proficient in Scrum frameworks, enabling them to effectively collaborate and adapt to evolving project requirements.
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Accounting Services](/images/agile.jpg)
 
 # Objectives
 
