@@ -6,7 +6,7 @@ weight: 1
 
 At Agile Masters, our mission is to empower businesses and individuals with the principles of Scrum and Agile methodologies. Through our expertise, guidance, and innovative solutions, we aim to foster collaborative, adaptive, and high-performing teams that drive successful project delivery and organizational growth.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/OIP.jpg)
 
 # Mission
 
