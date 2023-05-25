@@ -1,84 +1,20 @@
 ---
-title: "Accounting"
+title: "Mission Statement"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+At Agile Masters, our mission is to empower businesses and individuals with the principles of Scrum and Agile methodologies. Through our expertise, guidance, and innovative solutions, we aim to foster collaborative, adaptive, and high-performing teams that drive successful project delivery and organizational growth.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# Mission
 
-Financial accounting and financial reporting are often used as synonyms.
+Our current professional mission (Scrum Master / Agile Coach) is to support an organization to transform/improve its internal culture and processes around IT development on the way that this organization conquers/develops the market quicker, more efficient, and less expensive.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+This successful experience gained during such transformation consists of 3 following phases.
 
-## Relevance
+1. The first phase is the adjustment of the basic processes, experimentation and setup of best Agile tools and approaches in the scope of the team. During this phase, focus is rambling between the following areas: mid-term business vision, business analysis, UX, technical excellence (craftsmanship), DevOps and support. Moreover, it's almost always necessary to ensure/foster the additional development of the classical Agile soft skills: self-organization, proactivity, positive mindset, transparency, experimentation, focus on the highest priority and simplicity. This step can take between 0.5 and 1 year depending on the initial maturity, process- and technical-debts. If you have the similar situation, I do really advise to refer to the MountainGoat's blog.
+2. The second phase start after the high and stable productivity and quality is achieved. It is the phase of the business impact increasing. It start with clarifying the business needs of every business request: why do we want to deliver it to the customer and how we can measure/quantify (!) the success. It is a real mind-shift for the PO, BA and stakeholders to be able to measure the business value of the feature in numbers.
+3. The third phase switch to the advanced level of the organizational transformation. It start as soon as we are able to identify and provide clear measurement of the business impact. The evidence-based planning and management have been done by the team, top-management, and the relevant business representatives. Starting from this maturity level, our organisation was doing the actions which were even impossible to imagine before: business change planning, business-deployment control, and business efficiency of new features measurement. It was a new level of team's “mindfulness”.  The presentation “Strategic Portfolio Management with Kanban” from Matthias Patzak helped me to clarify our process for myself.
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
-
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
-
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
