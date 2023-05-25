@@ -10,4 +10,4 @@ show_call_box: true
 
 # Welcome to Agile Masters
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Agile Masters is a highly skilled and dedicated Scrum Team, ready to showcase their exceptional talent and expertise on to the world.
