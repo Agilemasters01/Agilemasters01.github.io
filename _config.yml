@@ -8,7 +8,7 @@ logo:
   mobile_width: "32px"
   desktop: "images/logo/agile.jpg"
   desktop_height: "87px"
-  desktop_width: "65px"
+  desktop_width: "55px"
 
 home: 
   limit_services: 6
